@@ -1,0 +1,25 @@
+E-Commerce Web Application
+
+About
+
+A full-stack E-Commerce Web Application that allows users to browse products, add items to a cart, place orders, and track purchases. The application includes secure user authentication, role-based access control, product management, and database integration for storing products and orders.
+
+Features
+User Registration and Login
+Role-Based Access (Admin/User)
+Product Catalog
+Add to Cart Functionality
+Checkout Process
+Order Tracking
+Product Management (Admin)
+Order Management (Admin)
+Responsive Design
+Database Integration (MySQL/PostgreSQL/MongoDB)
+Technologies Used
+HTML
+CSS
+JavaScript
+React.js
+Node.js
+Express.js
+MongoDB / MySQL / PostgreSQL
