@@ -1,0 +1,16 @@
+<section>
+    <h2>Key Features</h2>
+
+    <ul>
+        <li>Product Catalog with Product Listings</li>
+        <li>Add to Cart Functionality</li>
+        <li>Secure Checkout Process</li>
+        <li>User Registration and Login</li>
+        <li>Role-Based Access Control (Admin/User)</li>
+        <li>Product Management for Admin</li>
+        <li>Order Management and Tracking</li>
+        <li>RESTful Backend APIs</li>
+        <li>Database Integration (MySQL, PostgreSQL, or MongoDB)</li>
+        <li>Responsive Design for Mobile and Desktop</li>
+    </ul>
+</section>
